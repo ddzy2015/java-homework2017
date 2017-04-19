@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Exercise6 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		int binary = scanner.nextInt();
 		int multiplier = 1;

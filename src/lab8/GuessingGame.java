@@ -11,7 +11,6 @@ public class GuessingGame {
 	private enum Status{CONTINUE, WON, LOST};
 	
 	public GuessingGame() {
-		// TODO Auto-generated constructor stub
 		Random random = new Random();
 		magicNum = random.nextInt(max) + 1;
 	}

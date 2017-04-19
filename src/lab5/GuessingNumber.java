@@ -9,7 +9,6 @@ public class GuessingNumber {
 	private final int range = 10;
 	
 	public GuessingNumber() {
-		// TODO Auto-generated constructor stub
 		Random random = new Random();
 		magicNum = random.nextInt(range+1);
 	}

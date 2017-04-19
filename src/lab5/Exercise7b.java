@@ -3,7 +3,6 @@ package lab5;
 public class Exercise7b {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		double result = 0;
 		int n = 0;
 		while (!(result > 2.71828 && result <2.71829)) {

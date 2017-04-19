@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Exercise7 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Input r as integers:");
 		int num = scanner.nextInt();

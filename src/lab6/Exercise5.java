@@ -3,7 +3,6 @@ package lab6;
 public class Exercise5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int i = 100;
 		do {
 				int d1 = i % 10;

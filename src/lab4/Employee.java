@@ -7,7 +7,6 @@ public class Employee {
 	private double salary;
 	
 	public Employee(String first, String last, double salary0) {
-		// TODO Auto-generated constructor stub
 		firstname = first;
 		lastname = last;
 		salary = salary0;

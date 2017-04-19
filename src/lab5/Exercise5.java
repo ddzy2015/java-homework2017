@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Exercise5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int counter = 0;
 		System.out.println("Please input 10 integer.");
 		Scanner scanner = new Scanner(System.in);

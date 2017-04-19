@@ -6,7 +6,6 @@ public class Exercise6 {
 
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub		
 		final double PI = 3.14159;
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Input r as integers:");

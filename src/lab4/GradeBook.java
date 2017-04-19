@@ -6,7 +6,6 @@ public class GradeBook {
 	private String course;
 	
 	public GradeBook(String course, String name) {
-		// TODO Auto-generated constructor stub
 		this.course = course;
 		instructor = name;
 	}

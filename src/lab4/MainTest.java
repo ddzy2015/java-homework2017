@@ -3,7 +3,6 @@ package lab4;
 public class MainTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		//test for GradeBook
 		System.out.println("This is a test for GradeBook:");
