@@ -14,7 +14,7 @@ public class Exercise3 {
 		System.out.print("please inpot the side lenth: ");
 		sideLength = scanner.nextFloat();
 		area = sideCount * sideLength * sideLength / (4 * Math.tan(Math.PI / sideCount));
-		System.out.print("the area of the polygon is: " + String.valueOf(area));
+		System.out.println("the area of the polygon is: " + String.valueOf(area));
 		scanner.close();
 	}
 
