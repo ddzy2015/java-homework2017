@@ -1,11 +1,11 @@
 package lab6;
 
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class Exercise8 {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Please input an integer n: ");
 		int n = scanner.nextInt();

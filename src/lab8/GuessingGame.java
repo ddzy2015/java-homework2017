@@ -17,6 +17,7 @@ public class GuessingGame {
 	
 	public void guess() {
 		Random random = new Random();
+		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
 		Status gameStatus = Status.CONTINUE;
 		

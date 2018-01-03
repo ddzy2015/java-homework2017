@@ -15,6 +15,7 @@ public class GuessingNumber {
 	
 	public void guess() {
 		System.out.printf("Please input a integer between 0 and %d (-1 to give up): ", range);
+		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
 		int input = scanner.nextInt();
 		while (input != magicNum && input != -1) {
